@@ -25,7 +25,10 @@ SECRET_KEY = '(lc3q@3+pp4@z&+00(2074z#2&6xm4b(_x2u(q^sq)5v4s$8l-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '127.0.0.1',
+    'arcane-cliffs-70272.herokuapp.com'
+]
 
 
 # Application definition
