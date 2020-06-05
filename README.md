@@ -6,7 +6,7 @@ Django-приложение, реализующее API для получени�
 https://afternoon-brook-15863.herokuapp.com/
 ___
 
-####Админка:
+#### Админка:
 https://afternoon-brook-15863.herokuapp.com/admin/
 
 логин/пароль: admin/admin 
